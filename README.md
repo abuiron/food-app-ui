@@ -4,7 +4,7 @@ This project is a responsive landing page for "Foodie," a fictional food deliver
 
 ## Live Demo
 
-   check out this 
+   check out this https://foodie-app-by-at.netlify.app/
 
 
 ## **Features**
