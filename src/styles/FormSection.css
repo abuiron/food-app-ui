@@ -62,6 +62,14 @@ button:focus{
   text-align: center;
 }
 
+@media (max-width: 1000px){
+  .form-btn-container{
+    height: 60px;
+    width: 200px;
+    left: -130px;
+  }
+}
+
 @media (max-width: 768px) {
   .waitlist-form input {
     width: 250px;
@@ -71,6 +79,13 @@ button:focus{
     width: 200px;
     left: -120px;
   }
+}
+@media (max-width:695px) {
+  .form-btn-container{
+    height: 80px;
+    left: -110px;
+  }
+  
 }
 
 @media (max-width: 600px) {

@@ -112,16 +112,9 @@ button:focus{
     font-size: 1rem;
   }
 }
-
-@media (max-width: 480px) {
-  .mobile-container {
-    width: 250px;
-  }
-
-  .mobile-video {
-    top: 8%;
-    left: 8%;
-    width: 84%;
-    height: 84%;
+@media (max-width:420px) {
+  .main-btn-container{
+    top: -100px;
+    left: 10px;
   }
 }
