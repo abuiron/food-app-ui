@@ -1,0 +1,36 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1px;
+  background-color:transparent;
+  backdrop-filter: blur(30px);
+  position: sticky;
+  top: 0px;
+  z-index: 10;
+}
+
+.logo {
+  width: 150px;
+}
+
+.header-btn {
+  background-color: #fa4300;
+  color: #fff;
+  padding: 10px 20px;
+  border: 2px double #fff;
+  border-radius: 25px;
+  font-size: 1rem;
+  font-weight: bold;
+}
+
+@media (max-width: 768px) {
+  .logo {
+    width: 120px;
+  }
+
+  .header-btn {
+    padding: 8px 16px;
+    font-size: 0.9rem;
+  }
+}
