@@ -118,3 +118,11 @@ button:focus{
     left: 10px;
   }
 }
+
+@media (max-width:490px) {
+  .mobile-video{
+    border-radius: 23px;
+    width: 95%;
+    left: 2%;
+  }
+}
