@@ -6,7 +6,7 @@ This project is a responsive landing page for "Foodie," a fictional food deliver
 
    check out this 
 
-   
+
 ## **Features**
 
 - **Responsive Design**: The layout adjusts seamlessly across all screen sizes (desktop, tablet, mobile).
@@ -63,14 +63,14 @@ Before you begin, ensure you have the following installed on your system:
    git clone https://github.com/yourusername/foodie-landing-page.git
 
 2. **Navigate to the project directory** :
-  ```bash
+  ``bash
    cd foodie-landing-page
 
 3. **Install dependencies** :
-  ```bash
+  ``bash
   npm install
     or
-  ```bash
+  ``bash
  yarn install
 
 
